@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @QuZikun
+- 👋 Hi, I’m QuZikun in HKU
 - 👀 I’m interested in artificial intelligence and MLLM
-- 🌱 I’m currently learning HKU
 - 💞️ I’m looking to collaborate on MLLM 
 - 📫 quzikun0919@outlook.com
      qzk0919@connect.hku.hk
