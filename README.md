@@ -1,8 +1,6 @@
 - 👋 Hi, I’m QuZikun in CUHKSZ
-- 👀 I’m interested in artificial intelligence and MLLM
-- 💞️ I’m looking to collaborate on MLLM 
+- 👀 I’m interested in LLM inference，Reinforcement Learning and Trustworthy AI
 - 📫 quzikun0919@outlook.com
-     qzk0919@connect.hku.hk
 
 <!---
 QuZikun/QuZikun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
