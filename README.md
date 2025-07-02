@@ -1,4 +1,4 @@
-- 👋 Hi, I’m QuZikun in HKU
+- 👋 Hi, I’m QuZikun in CUHKSZ
 - 👀 I’m interested in artificial intelligence and MLLM
 - 💞️ I’m looking to collaborate on MLLM 
 - 📫 quzikun0919@outlook.com
